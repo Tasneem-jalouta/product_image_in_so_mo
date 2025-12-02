@@ -12,7 +12,7 @@
     ],
     'images': ['static/description/banner.jpg'],
     'license': 'AGPL-3',
-    'price': 12.99,
+    'price': 12.49,
     'currency': 'USD'
     'installable': True,
     'application': False,
