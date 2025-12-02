@@ -1,6 +1,6 @@
 {
     'name': 'Product Image in so & mo',
-    'version': '17.0.1.0.0',
+    'version': '17.0.1.0.1',
     'category': 'Sales',
     'summary': 'Adds product image to sale order lines and manufacturing orders',
     'author': 'Tag Technology',
